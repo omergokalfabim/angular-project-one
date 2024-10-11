@@ -1,3 +1,42 @@
+# Angular & Typescript
+[Angular Github]()
+
+## Git Kurulumu
+https://www.git-scm.com/download/win
+git config --global user.name  = "Ömer Gök"
+git config --global user.email = "omergokalfabim@gmail.com"
+---
+##  Nopde JS
+https://nodejs.org/en/download/package-manager
+---
+
+## Version
+git -v
+npm -v
+
+npm list
+npm list -g
+
+## Angular Kurulum
+'''sh
+
+npm install -g typescript
+npm install -g @angular/cli
+npm uninstall -g @angular/cli
+ng -version
+ng v
+ng --help
+
+--Angular Başlat
+ng new angular-project-one
+cd angular-project-one
+ng serve // sistemi açacam
+ng serve --open // sistemi açar brwserıda açar
+ng serve --port 9999 --open
+http://localhost:9999
+curl localhost:9999
+'''
+
 # AngularProjectOne
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.8.
