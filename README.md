@@ -1,5 +1,5 @@
 # Angular & Typescript
-[Angular Github]()
+[Angular Github](https://github.com/omergokalfabim/angular-project-one.git)
 
 ## Git Kurulumu
 https://www.git-scm.com/download/win
